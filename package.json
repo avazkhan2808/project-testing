@@ -1,0 +1,14 @@
+{
+	"name": "project-testing",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "jc",
+	"license": "MIT",
+	"scripts": {
+		"test": "jest"
+	},
+	"devDependencies": {
+		"@babel/preset-env": "^7.9.6",
+		"jest": "^26.0.1"
+	}
+}
